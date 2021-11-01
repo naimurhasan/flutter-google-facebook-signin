@@ -2,7 +2,11 @@
 
 A Flutter google + facebook sign in feature app for custom backend without firebase.
 
-![Screenshot 1](screenshot.png)
+[Screenshot 1](screenshot.png)
+
+## Helping Links
+- [Facebook Login Tutorial](https://youtu.be/yPe50kXmlPA)
+- [Google Login Tutorial](https://youtu.be/E5WgU6ERZzA)
 
 ## Getting Started
 
